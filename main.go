@@ -1,10 +1,10 @@
 // ----------------------------------------------------------------------------
 //  Name         : Proxy Bridge
 //  Desc         : Proxy Bridge using Golang
-//  Author       : Wildy Sheverando [WildyBytes]
+//  Author       : Wildy Sheverando [Wildy8283]
 //  Date         : 03-03-2023
 //  License      : GNU General Public License V3
-//  License Link : https://raw.githubusercontent.com/wildybytes/lcn/main/gplv3
+//  License Link : https://raw.githubusercontent.com/wildy8283/lcn/main/gplv3
 // ----------------------------------------------------------------------------
 
 package main
